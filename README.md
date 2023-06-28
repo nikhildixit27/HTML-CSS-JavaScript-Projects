@@ -15,3 +15,4 @@ A collection of my web development projects demonstrating interactive designs an
 10. Emoji Generator
 11. Musical Instrument Sound
 12. Navbar
+13. Password Generator
