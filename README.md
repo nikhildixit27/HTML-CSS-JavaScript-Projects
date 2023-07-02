@@ -16,3 +16,4 @@ A collection of my web development projects demonstrating interactive designs an
 11. Musical Instrument Sound
 12. Navbar
 13. Password Generator
+14. Search Bar
