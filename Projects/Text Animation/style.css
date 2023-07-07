@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Roboto+Condensed:wght@500&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: blueviolet;
+    font-family: 'Comforter', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 32px;
+}
+
