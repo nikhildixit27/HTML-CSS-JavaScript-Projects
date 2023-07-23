@@ -18,3 +18,5 @@ A collection of my web development projects demonstrating interactive designs an
 13. Password Generator
 14. Search Bar
 15. Tabs Section
+16. Text Animation
+17. To Do List 
